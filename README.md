@@ -15,7 +15,6 @@
 
 ### 🙋‍♂️ About Me
 
-- 🛡️ **Security Engineer** at **Pulsar**, a cybersecurity firm in Benghazi
 - 🎓 Software Engineering student at **Libyan International University**
 - 🖼️ CEO of **Mufti Gallery** — antiques & fine art, family heritage since the 1950s
 - 🔨 Graduation project: a bilingual (AR/EN) **auction + e-commerce platform** for **[mufti-gallery](https://github.com/ahm4dmufti/mufti-gallery)**
