@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmad El Mufti</h1>
-<h3 align="center">Security Engineer · Software Engineering student · Builder from Benghazi 🇱🇾</h3>
+<h3 align="center">Software Engineering student · Builder from Benghazi 🇱🇾</h3>
 
 <p align="center">
   <a href="https://github.com/ahm4dmufti">
